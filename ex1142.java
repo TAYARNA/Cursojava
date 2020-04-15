@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class URI1142{
+public class ex1142{
     public static void main(String args[]){
         Scanner teclado = new Scanner(System.in);
         int N = teclado.nextInt();
